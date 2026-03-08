@@ -8,8 +8,8 @@ account:
   #登入账号只需要修改cookie就行了
   cookie: "ltoken=qnO1fKGmTMpHWaYQsJaqTzIGfotS4whHhN67Pove; ltuid=274296098; cookie_token=jNNUX2su4id2qNlMJb9zmD1G2aPycwwMCsNAjwkU; account_id=274296098;"
   stuid: ""
-  stoken: ""
-  mid: ""
+  stoken: "v2_IS97PdZLenfsMdoITwuK-GPu272r3nukgFH8KWZadQhR7tFYnQnpyb0QCUovruSeNBSwso5mGAApMj8dezvRWVftyZK7RGOupIgWEfz6p8N59BLKwNooGqnf--wncn6TVXIChVR5CR4=.CAE="
+  mid: "0garoo77w2_mhy"
 device:
   name: "Xiaomi MI 6"
   model: "Mi 6"
