@@ -2,7 +2,7 @@ name: Mihoyo Auto Task
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # 每天北京时间早上8点
+    - cron: '0 22 * * *'   # 每天北京时间早上6点
   workflow_dispatch:
 
 permissions:
