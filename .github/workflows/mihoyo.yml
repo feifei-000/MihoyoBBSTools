@@ -28,7 +28,7 @@ jobs:
           git checkout upstream/master -- $files
           git add .
           git commit -m "Sync upstream (exclude main.py & workflows)" || echo "No changes to commit"
-          git push origin main
+          git push origin master
 
       - name: 安装 Python
         uses: actions/setup-python@v5
