@@ -6,7 +6,7 @@ version: 15
 push: ""
 account:
   #登入账号只需要修改cookie就行了
-  cookie: ""
+  cookie: "ltoken=qnO1fKGmTMpHWaYQsJaqTzIGfotS4whHhN67Pove; ltuid=274296098; cookie_token=jNNUX2su4id2qNlMJb9zmD1G2aPycwwMCsNAjwkU; account_id=274296098;"
   stuid: ""
   stoken: ""
   mid: ""
@@ -26,6 +26,7 @@ mihoyobbs:
   checkin_list:
     - 5
     - 2
+    - 6
   #看帖
   read: true
   #点赞帖子
